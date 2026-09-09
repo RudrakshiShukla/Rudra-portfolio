@@ -6,7 +6,8 @@ on:
       - portfolio-v1
       - portfolio-v2
       - main
-    pull_request:
+
+  pull_request:
     branches:
       - main
 
