@@ -4,7 +4,9 @@ on:
   push:
     branches:
       - portfolio-v1
+      - portfolio-v2
       - main
+
   pull_request:
     branches:
       - main
